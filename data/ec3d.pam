@@ -1,0 +1,9 @@
+28x28x28_999.csv
+28 28  28                               : nx, ny, nz
+1.0e-7                 	              : Conv criteria
+50                                          : Max Inversion
+0                                            : Write Current (0=no;1=yes)               
+2                                            : No of Phase
+0.2					     : Conductivity(0-Brine)
+1.3e-18				             : Conductivity(1-Quartz)
+1 0 0                                        : Applied electric field 

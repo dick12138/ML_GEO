@@ -1,0 +1,20 @@
+nx=   28 ny=   28 nz=   28 ns =    21952
+ Volume fraction of phase            1  =   0.600036442    
+ Volume fraction of phase            2  =   0.399963558    
+ Phase            1  conductivity tensor is:
+  0.200000003       0.00000000       0.00000000    
+   0.00000000      0.200000003       0.00000000    
+   0.00000000       0.00000000      0.200000003    
+ Phase            2  conductivity tensor is:
+   1.30000005E-18   0.00000000       0.00000000    
+   0.00000000       1.30000005E-18   0.00000000    
+   0.00000000       0.00000000       1.30000005E-18
+ Applied field components:
+ ex =    1.00000000      ey =    0.00000000      ez =    0.00000000    
+ Initial energy =    1316.70312     gg =    103.641502    
+ Energy =    1118.59375     gg =    2.10236129E-03
+          20  conj. grad. steps
+
+  Current in x direction =   0.101548113    
+  Current in y direction =    6.97154610E-06
+  Current in z direction =    3.35606979E-04
